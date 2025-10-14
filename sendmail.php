@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Your recipient email
-    $to = "akshtdigitalinfo@gmail.com";  // <-- change to your email address
+    $to = "useforworkon@gmail.com";  // <-- change to your email address
     $subject = "New Contact Message from $name";
 
     // Message content
